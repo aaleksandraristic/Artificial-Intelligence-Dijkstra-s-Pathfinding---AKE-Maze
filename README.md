@@ -1,4 +1,4 @@
-**AKE Maze** 
+# Artificial Intelligence Dijkstra's Pathfinding - AKE Maze
 
 Abstract
 This project presents a maze game that combines classic gameplay with dynamic elements, introducing variability and challenges in each playthrough. The core
